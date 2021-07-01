@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+        let a = 43242;
+        function test (){
+            return 1432432;
+        }
+    </script>
+
+    <script>
+        console.log(a);
+        console.log(test());
+    </script>
+
+    <script src="./test1.js"></script>
+    <script src="./test2.js"></script>
+    <script type="module" src="./test3.js"></script>
+
+    <script type='module'>
+        import plus from'./module.js';
+        console.log(plus(6,6));
+    </script>
+
+    <script type="module">
+        import { sub } from './module2.js';
+        console.log(sub(0, 4))
+    </script>
+
+    <script type="module">
+        import { sub, mul, div } from './module2.js';
+        console.log(sub(0, 94));
+        console.log(mul(9,9));
+        console.log(div(2, 0));
+    </script>
+
+    <script type="module">
+        import 내마음대로 from './module3.js';
+        내마음대로()
+    </script>
+
+    <script>
+        console.log(1);
+        console.log();
+    </script>
+</body>
+</html>
