@@ -16,7 +16,7 @@
 
 웹 표준 페이지 1번<br>
 
-index.html: https://developmk.github.io/WEB/index1.html<br>
+index1.html: https://developmk.github.io/WEB/index1.html<br>
 
 웹 표준 페이지 2번<br>
 
