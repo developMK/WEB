@@ -5,6 +5,12 @@
 제이쿼리1: https://developmk.github.io/WEB/script-sample/mouseEffact/mouse01.html<br>
 자바스크립트1: https://developmk.github.io/WEB/script-sample/mouseEffact/mouse01-javascript.html<br>
 
+제이쿼리2: https://developmk.github.io/WEB/script-sample/mouseEffact/mouse02.html<br>
+자바스크립트2: https://developmk.github.io/WEB/script-sample/mouseEffact/mouse02-javascript.html<br>
+
+제이쿼리3: https://developmk.github.io/WEB/script-sample/mouseEffact/mouse03.html<br>
+자바스크립트3: https://developmk.github.io/WEB/script-sample/mouseEffact/mouse03-javascript.html<br>
+
 
 # web
 
